@@ -1,0 +1,2 @@
+# RunWare
+Simple Ransomware Generator
