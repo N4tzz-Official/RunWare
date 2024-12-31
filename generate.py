@@ -83,7 +83,7 @@ $$$$***$$$$$$$$$$uuu   uu$$$$$$$$$***$$$*
         self.configuration['fname'] = str(input("-> "))
 
         # Extension
-        print(f"[{red}REQUIRED{white}] Insert extension for encrypted files\nwhen file encrypted, there will be automaticly change the extension data.docx to data.docx.your_extension\nexample: .encrypted")
+        print(f"[{red}REQUIRED{white}] Insert extension for encrypted files\nwhen file encrypted, there will be automatically changed the extension data.docx to data.docx.your_extension\nexample: .encrypted")
         self.configuration['ext'] = str(input("-> "))
 
         self.clear()
